@@ -1,1 +1,6 @@
 # THOMPSON
+
+Trauma THOMPSON is a telementoring project aim to providing prediction of medical instructions from videos of surgical procedures for the user.
+The basic methodology is including two parts: First, create a database for surgery videos with annotations of each step in the operation. Second, train a Deep Learning model that could generate prediction of medical instructions from the videos.
+
+The evaluation of the model will perform on the test datasets, which approximately 20% of the data of the entire dataset. Then, we will use different evaluation metrics (e.g. BLEU, METEOR, and SPICE) to evaluate the performance of the model by computing similarity score between the ground truth and the prediction. Besides the numerical evaluations, the expert emergency physician will also provide professional evaluations for the predictions.
