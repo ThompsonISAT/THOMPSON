@@ -13,7 +13,7 @@ The evaluation of the model will perform on the test datasets, which approximate
 
 List of Procdures
 1. Chest Tube
-2. Cricothyrotomy
+2. Cricothyroidotomy
 3. Tourniquet
 4. Intraosseous Infusion
 5. Needle Decompression
