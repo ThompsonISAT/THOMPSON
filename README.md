@@ -15,5 +15,5 @@ List of Procdures
 1. Chest Tube
 2. Cricothyrotomy
 3. Tourniquet
-4. Intraosseous infusion
+4. Intraosseous Infusion
 5. Needle Decompression
