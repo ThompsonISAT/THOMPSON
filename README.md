@@ -5,7 +5,7 @@ The basic methodology is including two parts: First, create a database for surge
 
 The evaluation of the model will perform on the test datasets, which approximately 20% of the data of the entire dataset. Then, we will use different evaluation metrics (e.g. BLEU, METEOR, and SPICE) to evaluate the performance of the model by computing similarity score between the ground truth and the prediction. Besides the numerical evaluations, the expert emergency physician will also provide professional evaluations for the predictions.
 ## Disclaimer
-The data set is a 'proof of concept collection', meaning that these are simulated cases – however the procedural elements between 'providers'  have not been 'dually vetted'. Furthermore simulation-based cases often leave out several steps that would occur in real life, especially when creating a 'unique/austere' dataset.
+The data set is a 'proof of concept collection', meaning that these are simulated cases – however the procedural elements between 'providers'  have not been 'dually vetted'. Furthermore simulation-based cases often leave out several steps that would occur in real life, especially when creating a unique/austere dataset.
 
 ## Dataset
 1. The dataset includes surgical videos of different participants in the head mount view of the procedures.
