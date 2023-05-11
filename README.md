@@ -4,6 +4,8 @@ Trauma THOMPSON is a telementoring project aim to providing prediction of medica
 The basic methodology is including two parts: First, create a database for surgery videos with annotations of each step in the operation. Second, train a Deep Learning model that could generate prediction of medical instructions from the videos.
 
 The evaluation of the model will perform on the test datasets, which approximately 20% of the data of the entire dataset. Then, we will use different evaluation metrics (e.g. BLEU, METEOR, and SPICE) to evaluate the performance of the model by computing similarity score between the ground truth and the prediction. Besides the numerical evaluations, the expert emergency physician will also provide professional evaluations for the predictions.
+## Disclaimer
+The data set is a 'proof of concept collection', meaning that these are simulated cases – however the procedural elements between 'providers'  have not been 'dually vetted'. Furthermore simulation-based cases often leave out several steps that would occur in real life, especially when creating a 'unique/austere' dataset.
 
 ## Dataset
 1. The dataset includes surgical videos of different participants in the head mount view of the procedures.
@@ -17,3 +19,8 @@ List of Procdures
 3. Tourniquet
 4. Intraosseous Infusion
 5. Needle Decompression
+
+## Download link
+Prior to downloading the data, users are required to sing the data usage agreement.
+Link to the data usage agreement: TBD
+
