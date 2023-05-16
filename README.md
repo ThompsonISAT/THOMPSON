@@ -5,7 +5,10 @@ The basic methodology is including two parts: First, create a database for surge
 
 The evaluation of the model will perform on the test datasets, which approximately 20% of the data of the entire dataset. Then, we will use different evaluation metrics (e.g. BLEU, METEOR, and SPICE) to evaluate the performance of the model by computing similarity score between the ground truth and the prediction. Besides the numerical evaluations, the expert emergency physician will also provide professional evaluations for the predictions.
 ## Disclaimer
-The data set is a 'proof of concept collection', meaning that these are simulated cases – however the procedural elements between 'providers'  have not been 'dually vetted'. Furthermore simulation-based cases often leave out several steps that would occur in real life, especially when creating a unique/austere dataset.
+Before downloading the dataset you acknowledge and agree to the following:
+1. “I will not distribute, copy, or reproduce any of the individual images or videos contained within this dataset.”
+2. “I acknowledge the dataset was developed to demonstrate proof of concept works around medical action recognition. The procedures have been completed using ‘available’ simulation equipment and/or ‘ad hoc’ available equipment to evaluate a proof of concept, and therefore these procedural videos may leave out critical steps and/or have direct errors that have not been tagged." 
+3. “I acknowledge the dataset videos were dual verified for tagging accuracy, but they were not dual verified for medical or procedural accuracy & correctness. They should not be used for direct patient care.”
 
 ## Dataset
 1. The dataset includes surgical videos of different participants in the head mount view of the procedures.
