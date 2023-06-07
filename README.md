@@ -25,5 +25,5 @@ List of Procdures
 
 ## Download link
 Prior to downloading the data, users are required to sing the data usage agreement.
-Link to the data usage agreement: TBD
+Link to the data usage agreement: [Trauma THOMPSON](https://shorturl.at/afvMP)
 
