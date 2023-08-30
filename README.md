@@ -22,10 +22,13 @@ By downloading the dataset you acknowledge and agree to the following terms and 
 9. Numpy, Pandas, PIL
 10. lmdb, tqdm
 
+Action recognition python main_recognition.py --mode train --path_to_data data  --path_to_save_models models --modality rgb --video_feat_dim 1024
+Action anticipation python main_anticipation.py --mode train --path_to_data data  --path_to_save_models models --modality rgb --video_feat_dim 1024
+
 
 ## Dataset
 1. The dataset includes surgical videos of different participants in the head mount view of the procedures.
-2. The annotation of the actions during surgeries will be collected from the participants as an audio file format.
+2. The annotation of the actions during surgeries will be collected from the participants in an audio file format.
 3. The dataset provides the temporal context of actions.
 4. The dataset is split into train, validation, and test set.
 
