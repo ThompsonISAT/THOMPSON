@@ -29,7 +29,7 @@ By downloading the dataset you acknowledge and agree to the following terms and 
 3. The dataset provides the temporal context of actions.
 4. The dataset is split into train, validation, and test set.
 
-List of Procedures
+## List of Procedures
 1. Chest Tube
 2. Cricothyroidotomy
 3. Tourniquet
