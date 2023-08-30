@@ -23,6 +23,8 @@ By downloading the dataset you acknowledge and agree to the following terms and 
 10. lmdb, tqdm
 
 Action recognition python main_recognition.py --mode train --path_to_data data  --path_to_save_models models --modality rgb --video_feat_dim 1024
+
+
 Action anticipation python main_anticipation.py --mode train --path_to_data data  --path_to_save_models models --modality rgb --video_feat_dim 1024
 
 
