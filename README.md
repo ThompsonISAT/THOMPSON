@@ -10,7 +10,7 @@ By downloading the dataset you acknowledge and agree to the following terms and 
 2. “I acknowledge the dataset was developed to demonstrate proof of concept works around medical action recognition. The procedures have been completed using ‘available’ simulation equipment and/or ‘ad hoc’ available equipment to evaluate a proof of concept, and therefore these procedural videos may leave out critical steps and/or have direct errors that have not been tagged." 
 3. “I acknowledge the dataset videos were dually verified for tagging accuracy, but they were not dually verified for medical or procedural accuracy & correctness. They should not be used for direct patient care.”
 
-##Dependencies:
+## Dependencies:
 1. Python >= 3.8
 2. PyTorch >= 1.3
 3. PyTorchVideo
