@@ -35,14 +35,24 @@ By downloading the dataset you acknowledge and agree to the following terms and 
 3. Tourniquet
 4. Intraosseous Infusion
 5. Needle Decompression
+
+## Download link
+Prior to downloading the data, users are required to sign the data usage agreement.
+Link to the data usage agreement: [Trauma THOMPSON](**https://shorturl.at/afvMP**)
    
 ## Dataset Download link
+[Trama_THOMPSON](https://drive.google.com/file/d/1oR7ALawOAgg1LswFbtEfmL6HcbZpM5j1/view?usp=sharing)
+<!-- 
+
 Track 1: [Track 1](https://drive.google.com/drive/folders/1kuJBq5IhAXpEFoYNuSqpZb-SVWGrEen8?usp=drive_link)
 
 Track 2: [Track 2](https://purdue0-my.sharepoint.com/:u:/g/personal/jiang841_purdue_edu/EYy9L8cxfKxBgprW4J3StAEBK1HBTRmcUE16TvSdUuNMtg?e=cDuFrG)
-<!-- This is commented out. -->
+
+
 
 ## Download link
 Prior to downloading the data, users are required to sign the data usage agreement.
 Link to the data usage agreement: [Trauma THOMPSON](https://shorturl.at/afvMP)
+
+-->
 
